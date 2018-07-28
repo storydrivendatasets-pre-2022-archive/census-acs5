@@ -1,0 +1,12 @@
+<query schema-version="1.0" lang="en" type="search" sig="SiyWEwysJH64GivwDKZX2I7H2r8">
+  <search-config>
+    <text-search>race</text-search>
+    <topic-search dimension-name="d_program" dimension-value-name="American Community Survey"/>
+    <category-search type="geo" summary-level-code="010" name="United States"/>
+    <category-search type="geo" summary-level-code="040" name="All States within United States, Puerto Rico, and the Island Areas"/>
+    <category-search type="geo" summary-level-code="050" name="All Counties within United States"/>
+    <category-search type="geo" summary-level-code="160" name="All Places within United States and Puerto Rico"/>
+    <category-search type="geo" summary-level-code="310" name="All Metropolitan and Micropolitan Statistical Areas within United States and Puerto Rico"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas within United States and Puerto Rico"/>
+  </search-config>
+</query>
